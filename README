@@ -1,0 +1,21 @@
+Build from scratch using Flask, React, and JWT, Vite for the framework.
+
+Some AI for helping where stuck.
+
+Built both a backend and frontend.
+
+Authentication is handled with JWT
+
+App allows users to create recipes and view them
+
+to start the backend app run from the backend directory:
+
+```
+flask run
+```
+
+to start the frontend app run from the my-invoyce-app directory:
+
+```
+npm run dev
+```
